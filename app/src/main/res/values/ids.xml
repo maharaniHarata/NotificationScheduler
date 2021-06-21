@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idleSwitch" type="id">16dp</item>
+    <item name="chargingSwitch" type="id">16dp</item>
+    <item name="seekBar" type="id">16dp</item>
+    <item name="seekBarProgress" type="id">16dp</item>
+    <item name="networkOptions" type="id">16dp</item>
+    <item name="noNetwork" type="id">16dp</item>
+    <item name="anyNetwork" type="id">16dp</item>
+    <item name="wifiNetwork" type="id">16dp</item>
+</resources>
